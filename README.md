@@ -20,5 +20,3 @@ weread2notion-pro使用文档：https://malinkang.com/posts/weread2notion-pro/
 
 如果你觉得本项目帮助了你，请作者喝一杯咖啡，你的支持是作者最大的动力。本项目会持续更新。
 
-![](./asset/WechatIMG27.jpg)
-
